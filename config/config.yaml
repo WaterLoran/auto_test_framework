@@ -1,0 +1,8 @@
+- driver_path: r"E:\代码空间\auto_test_framework\drivers\chromedriver.exe"
+  URL: "http://www.baidu.com"
+  job: developer
+  name: water
+- name: John
+  age: 30
+
+
